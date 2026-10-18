@@ -1,0 +1,310 @@
+{
+  "updatedAt": "2026-10-18T04:09:53Z",
+  "source": "manutd.com",
+  "matches": [
+    {
+      "id": "ics-20261018T130000Z",
+      "home": "Leeds",
+      "away": "Manchester United",
+      "name": "Leeds vs Manchester United",
+      "league": "Premier League",
+      "utc": "2026-10-18T13:00:00Z"
+    },
+    {
+      "id": "ics-20261021T164500Z",
+      "home": "Como",
+      "away": "Manchester United",
+      "name": "Como vs Manchester United",
+      "league": "UEFA Champions League",
+      "utc": "2026-10-21T16:45:00Z"
+    },
+    {
+      "id": "ics-20261025T140000Z",
+      "home": "Manchester United",
+      "away": "Bournemouth",
+      "name": "Manchester United vs Bournemouth",
+      "league": "Premier League",
+      "utc": "2026-10-25T14:00:00Z"
+    },
+    {
+      "id": "ics-20261031T123000Z",
+      "home": "Chelsea",
+      "away": "Manchester United",
+      "name": "Chelsea vs Manchester United",
+      "league": "Premier League",
+      "utc": "2026-10-31T12:30:00Z"
+    },
+    {
+      "id": "ics-20261103T200000Z",
+      "home": "Manchester United",
+      "away": "Roma",
+      "name": "Manchester United vs Roma",
+      "league": "UEFA Champions League",
+      "utc": "2026-11-03T20:00:00Z"
+    },
+    {
+      "id": "ics-20261108T163000Z",
+      "home": "Manchester United",
+      "away": "Villa",
+      "name": "Manchester United vs Villa",
+      "league": "Premier League",
+      "utc": "2026-11-08T16:30:00Z"
+    },
+    {
+      "id": "ics-20261122T163000Z",
+      "home": "Liverpool",
+      "away": "Manchester United",
+      "name": "Liverpool vs Manchester United",
+      "league": "Premier League",
+      "utc": "2026-11-22T16:30:00Z"
+    },
+    {
+      "id": "ics-20261125T200000Z",
+      "home": "Sporting",
+      "away": "Manchester United",
+      "name": "Sporting vs Manchester United",
+      "league": "UEFA Champions League",
+      "utc": "2026-11-25T20:00:00Z"
+    },
+    {
+      "id": "ics-20261128T150000Z",
+      "home": "Manchester United",
+      "away": "Brentford",
+      "name": "Manchester United vs Brentford",
+      "league": "Premier League",
+      "utc": "2026-11-28T15:00:00Z"
+    },
+    {
+      "id": "ics-20261202T200000Z",
+      "home": "Newcastle",
+      "away": "Manchester United",
+      "name": "Newcastle vs Manchester United",
+      "league": "Premier League",
+      "utc": "2026-12-02T20:00:00Z"
+    },
+    {
+      "id": "ics-20261205T150000Z",
+      "home": "Manchester United",
+      "away": "Coventry",
+      "name": "Manchester United vs Coventry",
+      "league": "Premier League",
+      "utc": "2026-12-05T15:00:00Z"
+    },
+    {
+      "id": "ics-20261208T200000Z",
+      "home": "Manchester United",
+      "away": "Leipzig",
+      "name": "Manchester United vs Leipzig",
+      "league": "UEFA Champions League",
+      "utc": "2026-12-08T20:00:00Z"
+    },
+    {
+      "id": "ics-20261212T150000Z",
+      "home": "Palace",
+      "away": "Manchester United",
+      "name": "Palace vs Manchester United",
+      "league": "Premier League",
+      "utc": "2026-12-12T15:00:00Z"
+    },
+    {
+      "id": "ics-20261219T150000Z",
+      "home": "Arsenal",
+      "away": "Manchester United",
+      "name": "Arsenal vs Manchester United",
+      "league": "Premier League",
+      "utc": "2026-12-19T15:00:00Z"
+    },
+    {
+      "id": "ics-20261227T163000Z",
+      "home": "Manchester United",
+      "away": "Forest",
+      "name": "Manchester United vs Forest",
+      "league": "Premier League",
+      "utc": "2026-12-27T16:30:00Z"
+    },
+    {
+      "id": "ics-20261230T193000Z",
+      "home": "Manchester United",
+      "away": "Sunderland",
+      "name": "Manchester United vs Sunderland",
+      "league": "Premier League",
+      "utc": "2026-12-30T19:30:00Z"
+    },
+    {
+      "id": "ics-20270102T123000Z",
+      "home": "Brighton",
+      "away": "Manchester United",
+      "name": "Brighton vs Manchester United",
+      "league": "Premier League",
+      "utc": "2027-01-02T12:30:00Z"
+    },
+    {
+      "id": "ics-20270107T200000Z",
+      "home": "Manchester United",
+      "away": "Newcastle",
+      "name": "Manchester United vs Newcastle",
+      "league": "Premier League",
+      "utc": "2027-01-07T20:00:00Z"
+    },
+    {
+      "id": "ics-20270116T150000Z",
+      "home": "Villa",
+      "away": "Manchester United",
+      "name": "Villa vs Manchester United",
+      "league": "Premier League",
+      "utc": "2027-01-16T15:00:00Z"
+    },
+    {
+      "id": "ics-20270120T200000Z",
+      "home": "Manchester United",
+      "away": "FC Bayern",
+      "name": "Manchester United vs FC Bayern",
+      "league": "UEFA Champions League",
+      "utc": "2027-01-20T20:00:00Z"
+    },
+    {
+      "id": "ics-20270123T150000Z",
+      "home": "Manchester United",
+      "away": "Liverpool",
+      "name": "Manchester United vs Liverpool",
+      "league": "Premier League",
+      "utc": "2027-01-23T15:00:00Z"
+    },
+    {
+      "id": "ics-20270127T200000Z",
+      "home": "Villarreal",
+      "away": "Manchester United",
+      "name": "Villarreal vs Manchester United",
+      "league": "UEFA Champions League",
+      "utc": "2027-01-27T20:00:00Z"
+    },
+    {
+      "id": "ics-20270130T150000Z",
+      "home": "Brentford",
+      "away": "Manchester United",
+      "name": "Brentford vs Manchester United",
+      "league": "Premier League",
+      "utc": "2027-01-30T15:00:00Z"
+    },
+    {
+      "id": "ics-20270206T150000Z",
+      "home": "Manchester United",
+      "away": "Chelsea",
+      "name": "Manchester United vs Chelsea",
+      "league": "Premier League",
+      "utc": "2027-02-06T15:00:00Z"
+    },
+    {
+      "id": "ics-20270210T200000Z",
+      "home": "Manchester United",
+      "away": "Brighton",
+      "name": "Manchester United vs Brighton",
+      "league": "Premier League",
+      "utc": "2027-02-10T20:00:00Z"
+    },
+    {
+      "id": "ics-20270220T150000Z",
+      "home": "Forest",
+      "away": "Manchester United",
+      "name": "Forest vs Manchester United",
+      "league": "Premier League",
+      "utc": "2027-02-20T15:00:00Z"
+    },
+    {
+      "id": "ics-20270227T150000Z",
+      "home": "Manchester United",
+      "away": "Arsenal",
+      "name": "Manchester United vs Arsenal",
+      "league": "Premier League",
+      "utc": "2027-02-27T15:00:00Z"
+    },
+    {
+      "id": "ics-20270303T200000Z",
+      "home": "Sunderland",
+      "away": "Manchester United",
+      "name": "Sunderland vs Manchester United",
+      "league": "Premier League",
+      "utc": "2027-03-03T20:00:00Z"
+    },
+    {
+      "id": "ics-20270313T150000Z",
+      "home": "Manchester United",
+      "away": "Everton",
+      "name": "Manchester United vs Everton",
+      "league": "Premier League",
+      "utc": "2027-03-13T15:00:00Z"
+    },
+    {
+      "id": "ics-20270320T150000Z",
+      "home": "Man City",
+      "away": "Manchester United",
+      "name": "Man City vs Manchester United",
+      "league": "Premier League",
+      "utc": "2027-03-20T15:00:00Z"
+    },
+    {
+      "id": "ics-20270410T140000Z",
+      "home": "Manchester United",
+      "away": "Hull",
+      "name": "Manchester United vs Hull",
+      "league": "Premier League",
+      "utc": "2027-04-10T14:00:00Z"
+    },
+    {
+      "id": "ics-20270417T140000Z",
+      "home": "Ipswich",
+      "away": "Manchester United",
+      "name": "Ipswich vs Manchester United",
+      "league": "Premier League",
+      "utc": "2027-04-17T14:00:00Z"
+    },
+    {
+      "id": "ics-20270424T140000Z",
+      "home": "Manchester United",
+      "away": "Palace",
+      "name": "Manchester United vs Palace",
+      "league": "Premier League",
+      "utc": "2027-04-24T14:00:00Z"
+    },
+    {
+      "id": "ics-20270501T140000Z",
+      "home": "Coventry",
+      "away": "Manchester United",
+      "name": "Coventry vs Manchester United",
+      "league": "Premier League",
+      "utc": "2027-05-01T14:00:00Z"
+    },
+    {
+      "id": "ics-20270508T140000Z",
+      "home": "Bournemouth",
+      "away": "Manchester United",
+      "name": "Bournemouth vs Manchester United",
+      "league": "Premier League",
+      "utc": "2027-05-08T14:00:00Z"
+    },
+    {
+      "id": "ics-20270515T140000Z",
+      "home": "Manchester United",
+      "away": "Leeds",
+      "name": "Manchester United vs Leeds",
+      "league": "Premier League",
+      "utc": "2027-05-15T14:00:00Z"
+    },
+    {
+      "id": "ics-20270523T140000Z",
+      "home": "Spurs",
+      "away": "Manchester United",
+      "name": "Spurs vs Manchester United",
+      "league": "Premier League",
+      "utc": "2027-05-23T14:00:00Z"
+    },
+    {
+      "id": "ics-20270530T150000Z",
+      "home": "Manchester United",
+      "away": "Fulham",
+      "name": "Manchester United vs Fulham",
+      "league": "Premier League",
+      "utc": "2027-05-30T15:00:00Z"
+    }
+  ]
+}
