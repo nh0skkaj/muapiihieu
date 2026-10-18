@@ -1,0 +1,64 @@
+name: Update MU Fixtures
+
+on:
+  schedule:
+    - cron: '0 3 28 * *'   # ngày 28 mỗi tháng, 03:00 UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download official ICS
+        run: |
+          curl -sL -A "Mozilla/5.0" \
+            "https://www.manutd.com/en/Manchester_United.ics" \
+            -o mu.ics
+          grep -q "BEGIN:VCALENDAR" mu.ics || exit 1
+
+      - name: Convert to JSON
+        run: |
+          python3 << 'PY'
+          import re, json
+          from datetime import datetime, timezone
+          with open("mu.ics", encoding="utf-8", errors="ignore") as f:
+              text = f.read()
+          events = []
+          for block in text.split("BEGIN:VEVENT")[1:]:
+              def get(key):
+                  m = re.search(key + r":(.+)", block)
+                  return m.group(1).strip().replace("\\n"," ").replace("\\,",",") if m else ""
+              summary, dtstart = get("SUMMARY"), get("DTSTART")
+              if not summary or not dtstart: continue
+              if not re.match(r"^\d{8}T\d{6}Z?$", dtstart): continue
+              iso = re.sub(r"^(\d{4})(\d{2})(\d{2})T(\d{2})(\d{2})(\d{2})Z?$", r"\1-\2-\3T\4:\5:\6Z", dtstart)
+              try:
+                  dt = datetime.fromisoformat(iso.replace("Z","+00:00"))
+              except: continue
+              if dt < datetime.now(timezone.utc): continue
+              clean = re.sub(r"\s*-\s*(Premier League|UEFA Champions League|FA Cup|Carabao Cup|EFL Cup).*$","", summary, flags=re.I).strip()
+              parts = re.split(r"\s+vs\s+", clean, flags=re.I)
+              home = (parts[0] if len(parts)==2 else clean).replace("Man Utd","Manchester United").strip()
+              away = (parts[1] if len(parts)==2 else "TBD").replace("Man Utd","Manchester United").strip()
+              league = "Premier League"
+              if re.search(r"Champions League", summary, re.I): league = "UEFA Champions League"
+              elif re.search(r"FA Cup", summary, re.I): league = "FA Cup"
+              elif re.search(r"Carabao|EFL Cup|League Cup", summary, re.I): league = "Carabao Cup"
+              events.append({"id":"ics-"+dtstart,"home":home,"away":away,"name":f"{home} vs {away}","league":league,"utc":iso})
+          events.sort(key=lambda x: x["utc"])
+          out = {"updatedAt": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"), "source":"manutd.com", "matches": events[:40]}
+          with open("mu.json","w",encoding="utf-8") as f:
+              json.dump(out, f, ensure_ascii=False, indent=2)
+          print(len(events), "matches")
+          PY
+
+      - name: Commit
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add mu.ics mu.json
+          git diff --staged --quiet && exit 0
+          git commit -m "Update MU fixtures $(date -u +%Y-%m-%d)"
+          git push
