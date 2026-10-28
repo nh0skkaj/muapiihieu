@@ -1,31 +1,7 @@
 {
-  "updatedAt": "2026-10-18T04:09:53Z",
+  "updatedAt": "2026-10-28T09:20:04Z",
   "source": "manutd.com",
   "matches": [
-    {
-      "id": "ics-20261018T130000Z",
-      "home": "Leeds",
-      "away": "Manchester United",
-      "name": "Leeds vs Manchester United",
-      "league": "Premier League",
-      "utc": "2026-10-18T13:00:00Z"
-    },
-    {
-      "id": "ics-20261021T164500Z",
-      "home": "Como",
-      "away": "Manchester United",
-      "name": "Como vs Manchester United",
-      "league": "UEFA Champions League",
-      "utc": "2026-10-21T16:45:00Z"
-    },
-    {
-      "id": "ics-20261025T140000Z",
-      "home": "Manchester United",
-      "away": "Bournemouth",
-      "name": "Manchester United vs Bournemouth",
-      "league": "Premier League",
-      "utc": "2026-10-25T14:00:00Z"
-    },
     {
       "id": "ics-20261031T123000Z",
       "home": "Chelsea",
@@ -75,12 +51,12 @@
       "utc": "2026-11-28T15:00:00Z"
     },
     {
-      "id": "ics-20261202T200000Z",
+      "id": "ics-20261202T201500Z",
       "home": "Newcastle",
       "away": "Manchester United",
       "name": "Newcastle vs Manchester United",
       "league": "Premier League",
-      "utc": "2026-12-02T20:00:00Z"
+      "utc": "2026-12-02T20:15:00Z"
     },
     {
       "id": "ics-20261205T150000Z",
@@ -99,20 +75,20 @@
       "utc": "2026-12-08T20:00:00Z"
     },
     {
-      "id": "ics-20261212T150000Z",
+      "id": "ics-20261213T190000Z",
       "home": "Palace",
       "away": "Manchester United",
       "name": "Palace vs Manchester United",
       "league": "Premier League",
-      "utc": "2026-12-12T15:00:00Z"
+      "utc": "2026-12-13T19:00:00Z"
     },
     {
-      "id": "ics-20261219T150000Z",
+      "id": "ics-20261220T163000Z",
       "home": "Arsenal",
       "away": "Manchester United",
       "name": "Arsenal vs Manchester United",
       "league": "Premier League",
-      "utc": "2026-12-19T15:00:00Z"
+      "utc": "2026-12-20T16:30:00Z"
     },
     {
       "id": "ics-20261227T163000Z",

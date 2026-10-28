@@ -6,33 +6,13 @@ VERSION:2.0
 X-WR-CALNAME:Man Utd Men
 BEGIN:VEVENT
 CLASS:PUBLIC
-DESCRIPTION:Fulham vs Man Utd - Premier League.\n\nAll dates subject to ch
- ange. For fixture info visit https://www.manutd.com/en/matches/mens-team/
- fixtures. For match coverage\, highlights and reaction go to https://www.
- manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and
-  hospitality info.
-DTEND:20260920T173000Z
-DTSTAMP:20261018T040556Z
-DTSTART:20260920T153000Z
-LOCATION:Craven Cottage\, London
-SEQUENCE:0
-SUMMARY:Fulham vs Man Utd - Premier League
-UID:4bdh1k5miiggomnrfvy7egb2s
-BEGIN:VALARM
-ACTION:DISPLAY
-DESCRIPTION:Reminder
-TRIGGER:-PT15M
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
-CLASS:PUBLIC
 DESCRIPTION:Man Utd vs Spurs - Premier League.\n\nAll dates subject to cha
  nge. For fixture info visit https://www.manutd.com/en/matches/mens-team/f
  ixtures. For match coverage\, highlights and reaction go to https://www.m
  anutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and 
  hospitality info.
 DTEND:20261010T183000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20261010T163000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -52,7 +32,7 @@ DESCRIPTION:Atlético vs Man Utd - UEFA Champions League.\n\nAll dates subj
  ps://www.manutd.com/en/mutv\, and visit https://tickets.manutd.com for ti
  ckets and hospitality info.
 DTEND:20261013T210000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20261013T190000Z
 LOCATION:Riyadh Air Metropolitano\, Madrid
 SEQUENCE:0
@@ -72,7 +52,7 @@ DESCRIPTION:Leeds vs Man Utd - Premier League.\n\nAll dates subject to cha
  anutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and 
  hospitality info.
 DTEND:20261018T150000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20261018T130000Z
 LOCATION:Elland Road\, Leeds\, West Yorkshire
 SEQUENCE:0
@@ -92,7 +72,7 @@ DESCRIPTION:Como vs Man Utd - UEFA Champions League.\n\nAll dates subject
  /www.manutd.com/en/mutv\, and visit https://tickets.manutd.com for ticket
  s and hospitality info.
 DTEND:20261021T184500Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20261021T164500Z
 LOCATION:Stadio Giuseppe Sinigaglia\, Como
 SEQUENCE:0
@@ -112,7 +92,7 @@ DESCRIPTION:Man Utd vs Bournemouth - Premier League.\n\nAll dates subject
  /www.manutd.com/en/mutv\, and visit https://tickets.manutd.com for ticket
  s and hospitality info.
 DTEND:20261025T160000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20261025T140000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -132,7 +112,7 @@ DESCRIPTION:Chelsea vs Man Utd - Premier League.\n\nAll dates subject to c
  .manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets an
  d hospitality info.
 DTEND:20261031T143000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20261031T123000Z
 LOCATION:Stamford Bridge\, London
 SEQUENCE:0
@@ -152,7 +132,7 @@ DESCRIPTION:Man Utd vs Roma - UEFA Champions League.\n\nAll dates subject
  /www.manutd.com/en/mutv\, and visit https://tickets.manutd.com for ticket
  s and hospitality info.
 DTEND:20261103T220000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20261103T200000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -172,7 +152,7 @@ DESCRIPTION:Man Utd vs Villa - Premier League.\n\nAll dates subject to cha
  anutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and 
  hospitality info.
 DTEND:20261108T183000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20261108T163000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -192,7 +172,7 @@ DESCRIPTION:Liverpool vs Man Utd - Premier League.\n\nAll dates subject to
  ww.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets 
  and hospitality info.
 DTEND:20261122T183000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20261122T163000Z
 LOCATION:Anfield\, Liverpool
 SEQUENCE:0
@@ -212,7 +192,7 @@ DESCRIPTION:Sporting vs Man Utd - UEFA Champions League.\n\nAll dates subj
  ps://www.manutd.com/en/mutv\, and visit https://tickets.manutd.com for ti
  ckets and hospitality info.
 DTEND:20261125T220000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20261125T200000Z
 LOCATION:Estádio José Alvalade\, Lisboa
 SEQUENCE:0
@@ -232,7 +212,7 @@ DESCRIPTION:Man Utd vs Brentford - Premier League.\n\nAll dates subject to
  ww.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets 
  and hospitality info.
 DTEND:20261128T170000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20261128T150000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -251,9 +231,9 @@ DESCRIPTION:Newcastle vs Man Utd - Premier League.\n\nAll dates subject to
  am/fixtures. For match coverage\, highlights and reaction go to https://w
  ww.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets 
  and hospitality info.
-DTEND:20261202T220000Z
-DTSTAMP:20261018T040556Z
-DTSTART:20261202T200000Z
+DTEND:20261202T221500Z
+DTSTAMP:20261028T091527Z
+DTSTART:20261202T201500Z
 LOCATION:St. James' Park\, Newcastle upon Tyne
 SEQUENCE:0
 SUMMARY:Newcastle vs Man Utd - Premier League
@@ -272,7 +252,7 @@ DESCRIPTION:Man Utd vs Coventry - Premier League.\n\nAll dates subject to
  w.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets a
  nd hospitality info.
 DTEND:20261205T170000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20261205T150000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -292,7 +272,7 @@ DESCRIPTION:Man Utd vs Leipzig - UEFA Champions League.\n\nAll dates subje
  s://www.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tic
  kets and hospitality info.
 DTEND:20261208T220000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20261208T200000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -311,9 +291,9 @@ DESCRIPTION:Palace vs Man Utd - Premier League.\n\nAll dates subject to ch
  fixtures. For match coverage\, highlights and reaction go to https://www.
  manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and
   hospitality info.
-DTEND:20261212T170000Z
-DTSTAMP:20261018T040556Z
-DTSTART:20261212T150000Z
+DTEND:20261213T210000Z
+DTSTAMP:20261028T091527Z
+DTSTART:20261213T190000Z
 LOCATION:Selhurst Park\, London
 SEQUENCE:0
 SUMMARY:Palace vs Man Utd - Premier League
@@ -331,9 +311,9 @@ DESCRIPTION:Arsenal vs Man Utd - Premier League.\n\nAll dates subject to c
  /fixtures. For match coverage\, highlights and reaction go to https://www
  .manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets an
  d hospitality info.
-DTEND:20261219T170000Z
-DTSTAMP:20261018T040556Z
-DTSTART:20261219T150000Z
+DTEND:20261220T183000Z
+DTSTAMP:20261028T091527Z
+DTSTART:20261220T163000Z
 LOCATION:Emirates Stadium\, London
 SEQUENCE:0
 SUMMARY:Arsenal vs Man Utd - Premier League
@@ -352,7 +332,7 @@ DESCRIPTION:Man Utd vs Forest - Premier League.\n\nAll dates subject to ch
  manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and
   hospitality info.
 DTEND:20261227T183000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20261227T163000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -372,7 +352,7 @@ DESCRIPTION:Man Utd vs Sunderland - Premier League.\n\nAll dates subject t
  www.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets
   and hospitality info.
 DTEND:20261230T213000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20261230T193000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -392,7 +372,7 @@ DESCRIPTION:Brighton vs Man Utd - Premier League.\n\nAll dates subject to
  w.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets a
  nd hospitality info.
 DTEND:20270102T143000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270102T123000Z
 LOCATION:American Express Stadium\, Falmer\, East Sussex
 SEQUENCE:0
@@ -412,7 +392,7 @@ DESCRIPTION:Man Utd vs Newcastle - Premier League.\n\nAll dates subject to
  ww.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets 
  and hospitality info.
 DTEND:20270107T220000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270107T200000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -432,7 +412,7 @@ DESCRIPTION:Villa vs Man Utd - Premier League.\n\nAll dates subject to cha
  anutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and 
  hospitality info.
 DTEND:20270116T170000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270116T150000Z
 LOCATION:Villa Park\, Birmingham
 SEQUENCE:0
@@ -452,7 +432,7 @@ DESCRIPTION:Man Utd vs FC Bayern - UEFA Champions League.\n\nAll dates sub
  tps://www.manutd.com/en/mutv\, and visit https://tickets.manutd.com for t
  ickets and hospitality info.
 DTEND:20270120T220000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270120T200000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -472,7 +452,7 @@ DESCRIPTION:Man Utd vs Liverpool - Premier League.\n\nAll dates subject to
  ww.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets 
  and hospitality info.
 DTEND:20270123T170000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270123T150000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -492,7 +472,7 @@ DESCRIPTION:Villarreal vs Man Utd - UEFA Champions League.\n\nAll dates su
  ttps://www.manutd.com/en/mutv\, and visit https://tickets.manutd.com for 
  tickets and hospitality info.
 DTEND:20270127T220000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270127T200000Z
 LOCATION:Estadio de la Cerámica\, Villarreal
 SEQUENCE:0
@@ -512,7 +492,7 @@ DESCRIPTION:Brentford vs Man Utd - Premier League.\n\nAll dates subject to
  ww.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets 
  and hospitality info.
 DTEND:20270130T170000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270130T150000Z
 LOCATION:Gtech Community Stadium\, Brentford\, Middlesex
 SEQUENCE:0
@@ -532,7 +512,7 @@ DESCRIPTION:Man Utd vs Chelsea - Premier League.\n\nAll dates subject to c
  .manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets an
  d hospitality info.
 DTEND:20270206T170000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270206T150000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -552,7 +532,7 @@ DESCRIPTION:Man Utd vs Brighton - Premier League.\n\nAll dates subject to
  w.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets a
  nd hospitality info.
 DTEND:20270210T220000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270210T200000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -572,7 +552,7 @@ DESCRIPTION:Forest vs Man Utd - Premier League.\n\nAll dates subject to ch
  manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and
   hospitality info.
 DTEND:20270220T170000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270220T150000Z
 LOCATION:The City Ground\, Nottingham\, Nottinghamshire
 SEQUENCE:0
@@ -592,7 +572,7 @@ DESCRIPTION:Man Utd vs Arsenal - Premier League.\n\nAll dates subject to c
  .manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets an
  d hospitality info.
 DTEND:20270227T170000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270227T150000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -612,7 +592,7 @@ DESCRIPTION:Sunderland vs Man Utd - Premier League.\n\nAll dates subject t
  www.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets
   and hospitality info.
 DTEND:20270303T220000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270303T200000Z
 LOCATION:Stadium of Light\, Sunderland
 SEQUENCE:0
@@ -632,7 +612,7 @@ DESCRIPTION:Man Utd vs Everton - Premier League.\n\nAll dates subject to c
  .manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets an
  d hospitality info.
 DTEND:20270313T170000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270313T150000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -652,7 +632,7 @@ DESCRIPTION:Man City vs Man Utd - Premier League.\n\nAll dates subject to
  w.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets a
  nd hospitality info.
 DTEND:20270320T170000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270320T150000Z
 LOCATION:Etihad Stadium\, Manchester
 SEQUENCE:0
@@ -672,7 +652,7 @@ DESCRIPTION:Man Utd vs Hull - Premier League.\n\nAll dates subject to chan
  nutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and h
  ospitality info.
 DTEND:20270410T160000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270410T140000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -692,7 +672,7 @@ DESCRIPTION:Ipswich vs Man Utd - Premier League.\n\nAll dates subject to c
  .manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets an
  d hospitality info.
 DTEND:20270417T160000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270417T140000Z
 LOCATION:Portman Road\, Ipswich\, Suffolk
 SEQUENCE:0
@@ -712,7 +692,7 @@ DESCRIPTION:Man Utd vs Palace - Premier League.\n\nAll dates subject to ch
  manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and
   hospitality info.
 DTEND:20270424T160000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270424T140000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -732,7 +712,7 @@ DESCRIPTION:Coventry vs Man Utd - Premier League.\n\nAll dates subject to
  w.manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets a
  nd hospitality info.
 DTEND:20270501T160000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270501T140000Z
 LOCATION:Coventry Building Society Arena\, Coventry\, West Midlands
 SEQUENCE:0
@@ -752,7 +732,7 @@ DESCRIPTION:Bournemouth vs Man Utd - Premier League.\n\nAll dates subject
  /www.manutd.com/en/mutv\, and visit https://tickets.manutd.com for ticket
  s and hospitality info.
 DTEND:20270508T160000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270508T140000Z
 LOCATION:Vitality Stadium\, Bournemouth\, Dorset
 SEQUENCE:0
@@ -772,7 +752,7 @@ DESCRIPTION:Man Utd vs Leeds - Premier League.\n\nAll dates subject to cha
  anutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and 
  hospitality info.
 DTEND:20270515T160000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270515T140000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
@@ -792,7 +772,7 @@ DESCRIPTION:Spurs vs Man Utd - Premier League.\n\nAll dates subject to cha
  anutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and 
  hospitality info.
 DTEND:20270523T160000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270523T140000Z
 LOCATION:Tottenham Hotspur Stadium\, London
 SEQUENCE:0
@@ -812,7 +792,7 @@ DESCRIPTION:Man Utd vs Fulham - Premier League.\n\nAll dates subject to ch
  manutd.com/en/mutv\, and visit https://tickets.manutd.com for tickets and
   hospitality info.
 DTEND:20270530T170000Z
-DTSTAMP:20261018T040556Z
+DTSTAMP:20261028T091527Z
 DTSTART:20270530T150000Z
 LOCATION:Old Trafford\, Manchester
 SEQUENCE:0
